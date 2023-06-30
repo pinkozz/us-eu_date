@@ -37,7 +37,8 @@ This is a program that changes file`s names from US-style date to EU-style date
    ```
 
 # Usage
-Once the program is up and running, it will search for files with US-style date in their name and will edit it to EU-style date
+Once the program is up and running, it will search for files with US-style date in their name and will edit it to EU-style date.
+If you want to test the program, there are 3 test files in the directory made for this purpose. Feel free to test this program on your own!
 # Contributing
 Contributions to the us-eu_date are welcome! If you'd like to contribute, please follow these steps:
 
